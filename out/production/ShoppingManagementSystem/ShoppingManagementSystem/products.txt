@@ -1,0 +1,29 @@
+Clothing:
+Product ID: w4235
+Product Name: shirt
+Available Items: 19
+Price: 30.0
+Size: M
+Color: yellow
+Clothing:
+Product ID: w313
+Product Name: frock
+Available Items: 9
+Price: 23.0
+Size: S
+Color: blue
+Electronics:
+Product ID: w1653
+Product Name: camera
+Available Items: 0
+Price: 300.0
+Brand: canon
+Warranty Period: 12
+
+Clothing:
+Product ID: w2443
+Product Name: shoe
+Available Items: 4
+Price: 40.0
+Size: L
+Color: black
